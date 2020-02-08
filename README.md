@@ -1,4 +1,7 @@
-# distant_viewing
+# distant viewing page layout
+
+![distant viwing DTA Kernkorpus](Alle_Bilder_Montage.jpg)
+
 A project, that appropriates a method called "distant viewing" for the analysis of typographic page layouts. In this example with the data from the 'Deutsches Textarchiv'.
 
 ## Seitenspiegel-Analyse am DTA OCR Korpus
@@ -21,3 +24,5 @@ In den TEI-Daten des DTA werden jedem Buchstaben konkrete Koordinate nach folgen
 Ausgezeichnet sind in diesen Daten die TEI-*front*-, -*body*- und -*back*-Umgebungen (hier kommt nur der *body* in den Blick) und *framework*-Bereiche, das heißt beispielsweise Seitenzahlen, die hier nicht berücksichtigt werden.
 
 Nota bene: Die Koordinaten beziehen sich weder auf die online dargestellten Faksimiles noch auf die Bilddaten der jeweiligen Urheber-Institution.
+
+![distant viwing DTA Kernkorpus](Alle_Bilder_Animation.gif)
