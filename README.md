@@ -1,6 +1,6 @@
 # distant viewing page layout
 
-![distant viwing DTA Kernkorpus](Alle_Bilder_Montage.jpg)
+![distant viwing DTA Kernkorpus](Alle_Bilder_Animation.gif)
 
 A project, that appropriates a method called "distant viewing" for the analysis of typographic page layouts. In this example with the data from the 'Deutsches Textarchiv'.
 
@@ -25,4 +25,4 @@ Ausgezeichnet sind in diesen Daten die TEI-*front*-, -*body*- und -*back*-Umgebu
 
 Nota bene: Die Koordinaten beziehen sich weder auf die online dargestellten Faksimiles noch auf die Bilddaten der jeweiligen Urheber-Institution.
 
-![distant viwing DTA Kernkorpus](Alle_Bilder_Animation.gif)
+![distant viwing DTA Kernkorpus](Alle_Bilder_Montage.jpg)
