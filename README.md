@@ -31,6 +31,8 @@ Nota bene: Die Koordinaten beziehen sich weder auf die online dargestellten Faks
 
 ## Erläuterung
 
-![Auswertung, statistisch per grep](auswertunggrep.jpg)
+![How to](howto.jpg)
 
-![Auswertung, statistisch per grep](auswertunggrep.jpg)
+![grobe Auswertung, statistisch per grep](auswertunggrep.jpg)
+
+
