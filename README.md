@@ -26,3 +26,11 @@ Ausgezeichnet sind in diesen Daten die TEI-*front*-, -*body*- und -*back*-Umgebu
 Nota bene: Die Koordinaten beziehen sich weder auf die online dargestellten Faksimiles noch auf die Bilddaten der jeweiligen Urheber-Institution.
 
 ![distant viwing DTA Kernkorpus](Alle_Bilder_Animation.gif)
+
+
+
+## Erläuterung
+
+![Auswertung, statistisch per grep](auswertunggrep.jpg)
+
+![Auswertung, statistisch per grep](auswertunggrep.jpg)
