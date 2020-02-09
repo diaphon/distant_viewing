@@ -1,4 +1,4 @@
-# distant viewing page layout
+# distant viewing page layouts by superimposition
 
 ![distant viwing DTA Kernkorpus](Alle_Bilder_Montage.jpg)
 
@@ -27,12 +27,18 @@ Nota bene: Die Koordinaten beziehen sich weder auf die online dargestellten Faks
 
 ![distant viwing DTA Kernkorpus](Alle_Bilder_Animation.gif)
 
+## To do's
+
+Das Skript hier stellt nur einen ersten Schritt dar um die Methode einem ersten Versuch zu unterziehen. Zu entwickeln bleibt dabei noch u.a. (1.) an welche andere, ähnliche bereits entwickelt Methoden angeschlossen werden kann (beispielsweise im Bereich der Kodikologie von Swati Chandna et al.: "[Quantitative Exploration of Large Medieval Manuscripts Data for the Codicological Research](doi.org/10.1109/ldav.2016.7874306)", danke Hannah Busch für den Hinweis!); (2.) eine Verbesserung der Datengrundlage (denn die DTA-Bilddaten sind nicht offen zugänglich und so können die Ergebnisse nicht zufriedenstellend mit abgeglichen werden); (3.) eine Auflösung der einseitigen Bilder in eine **Doppelseiten-Ansicht**, wie es für typographische Analysen notwendig wäre; (4.) nicht schwarze, sondern **semi-transparente Blöcke** übereinander legen wodurch häufiger bedruckte Stellen schwärzer ercheinen als seltener bedruckte (das würde auch auf den Hinweis von Frederike Neuber reagieren, dass bestimmte Layouts in einer überlagernden Darstellung nicht sichtbar werden) und die Anzahl der Seiten würde dadurch kenntlicher werden; …
 
 
 ## Erläuterung
 
+Mit diesem Prozedere werden im Grunde die (bereits als verfügbar angenommenen) OCR-Koordinaten genommen und übereinander gelegt, wie im folgenden Bild von links nach rechts lesend dargestellt sein soll:
+
 ![How to](howto.jpg)
 
-![grobe Auswertung, statistisch per grep](auswertunggrep.jpg)
+Das ergibt bei den DTA-OCR-Workflow-Daten folgende grobe Auswertung (per `grep`): Viele Werte liegen in unrealisitisch zu niedrigen (negativen) oder in zu hohen Bereichen, die im Skript auch nicht berücksichtigt werden.
 
+![grobe Auswertung, statistisch per grep](auswertunggrep.jpg)
 
