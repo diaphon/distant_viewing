@@ -1,8 +1,8 @@
-# distant viewing page layouts by superimposition
+# distant viewing page layouts
 
 ![distant viwing DTA Kernkorpus](Alle_Bilder_Montage.jpg)
 
-A project, that appropriates a method called "distant viewing" for the analysis of typographic page layouts. In this example with the data from the 'Deutsches Textarchiv'.
+A project, that appropriates a method called "distant viewing" from the fields of picture-analysis, which itself is an appropriation of "distant reading", back to from the literary studies, for the analysis of typographic page layouts. This first step towards such distant viewing uses data from the [Deutsches Textarchiv](https://github.com/deutschestextarchiv).
 
 ## Seitenspiegel-Analyse am DTA OCR Korpus
 
