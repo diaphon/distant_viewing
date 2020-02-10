@@ -1,12 +1,12 @@
-# distant viewing page layouts
+# hyperspeed reading
 
-![distant viwing DTA Kernkorpus](Alle_Bilder_Montage.jpg)
+![hyperspeed reading 199 texts of the DTA Kernkorpus](Alle_Bilder_Montage.jpg)
 
-A project, that appropriates a method called "distant viewing" from the fields of picture-analysis, which itself is an appropriation of "distant reading", back to from the literary studies, for the analysis of typographic page layouts. This first step towards such distant viewing uses data from the [Deutsches Textarchiv](https://github.com/deutschestextarchiv).
+The insight-oriented, methodological project **hyperspeed reading** appropriates a method called *distant viewing* from the fields of *picture- and film-analysis* (which itself is an appropriation of *distant reading* from the fields of *literary studies*) for the analysis of typographic page layouts. The insight, this project is looking for, is the layout of some text-source (although this can be any source of text that is visible visually, the project's interest is oriented towards printed source-texts). The layout of some text can be explained or seen in abstract ways, abstracting from the concrete phenomena, or – as approached here – although staying with the concrete phenomena, seeing some concept of the layout. The project is situated in a project, which quarrels with Otl Aichers design of Ilse Aichingers books (1965 ff.) but takes its test-data from the [Deutsches Textarchiv](https://github.com/deutschestextarchiv).
 
 ## Seitenspiegel-Analyse am DTA OCR Korpus
 
-Ziel des vorliegenden Projekts ist es, das [DTA-Kernkorpus](https://deutschestextarchiv.de) für typographische Analysen zu nutzen. Im Spezifischen geht es um den Satzspiegel: *Wohin wurden auf einer Buchseite die Buchstaben gedruckt?* In Anlehnung an den Begriff des *distant reading* kann hier von *distant viewing* gesprochen werden.
+Ziel des vorliegenden Projekts ist es, das [DTA-Kernkorpus](https://deutschestextarchiv.de) für typographische Analysen zu nutzen. Im Spezifischen geht es um den Satzspiegel: *Wohin wurden auf einer Buchseite die Buchstaben gedruckt?* In Anlehnung an den Begriff des *distant viewing* und *distant reading* kann hier von **hyperspeed reading** gesprochen werden.
 
 Datengrundlage sind die XML-Daten aus dem OCR-Workflow der ersten Projektphase des DTA (2007–2010), die mit OCR erfasst, nachkorrigiert und in TEI P5 kodiert wurden. Es handelt sich um 199 Texte des *Kernkorpus*. Da das DTA seinen "Fokus", wie das Projektteam schreibt, auf die "Textdaten" legen möchte ("und die Verknüpfung zu den Faksimiledaten über die Seitenzuordnung ausreichend ist"), wurde dieser arbeitsaufwändige Workflow nicht mehr weiter geführt. Die entsprechenden Daten werden auf deren [Website](https://deutschestextarchiv.de/download#ocr) zur Verfügung gestellt. Die von mir am 30.1.2020 heruntergeladenen Daten datieren auf den 6.11.2013.
 
@@ -25,7 +25,7 @@ Ausgezeichnet sind in diesen Daten die TEI-*front*-, -*body*- und -*back*-Umgebu
 
 Nota bene: Die Koordinaten beziehen sich weder auf die online dargestellten Faksimiles noch auf die Bilddaten der jeweiligen Urheber-Institution.
 
-![distant viwing DTA Kernkorpus](Alle_Bilder_Animation.gif)
+![hyperspeedreading_DTA Kernkorpus](Alle_Bilder_Animation.gif)
 
 ## To do's
 
