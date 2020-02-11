@@ -1,6 +1,8 @@
 # hyperfast reading
 
-![hyperfast reading 199 texts of the DTA Kernkorpus](Alle_Bilder_Montage.jpg)
+Montage
+| -------------- |
+|![hyperfast reading 199 texts of the DTA Kernkorpus](Alle_Bilder_Montage.jpg)|
 
 The insight-oriented, methodological project **hyperfast reading** appropriates a method called *distant viewing* from the fields of *picture- and film-analysis* (which itself is an appropriation of *distant reading* from the fields of *literary studies*) for the analysis of typographic page layouts. The insight, this project is looking for, is the layout of text-sources (although this can be any source of text that is visible visually, the project's concrete interest is oriented towards printed texts). While text-layouts are usually explained in abstract ways (sketch-lines and so forth abstract from the concrete phenomena), this approache tries to stay concrete and at the same time visualizes the concept of the layout. As this project is situated in an other project, which quarrels with Otl Aichers design of Ilse Aichingers books (S.Fischer: 1965 ff.), but cannot take those books into account because of copyrights, data from the [Deutsches Textarchiv](https://github.com/deutschestextarchiv) is taken.
 
@@ -27,7 +29,9 @@ Ausgezeichnet sind in diesen Daten die TEI-*front*-, -*body*- und -*back*-Umgebu
 
 Nota bene: Die Koordinaten beziehen sich weder auf die online dargestellten Faksimiles noch auf die Bilddaten der jeweiligen Urheber-Institution.
 
-![hyperfastreading_DTA Kernkorpus](Alle_Bilder_Animation.gif)
+Animation
+| ------------------------- |
+|![hyperfastreading_DTA Kernkorpus](Alle_Bilder_Animation.gif)|
 
 ## To do's
 
